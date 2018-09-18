@@ -1,0 +1,13 @@
+{
+  "title": "CEC",
+  "views": {
+    "signin": {
+      "header": {
+        "title": "Metronic | Login Page"
+      },
+      "body": {
+        "title": "Sign In To Admin"
+      }
+    }
+  }
+}
